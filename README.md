@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Anant Dixit</h1>
 <h3 align="center">learning full stack webdevelopment</h3>
-<img align='right'alt="coding" width="50" src="![image](https://github.com/user-attachments/assets/c4fcaf77-9fab-4a42-987f-4b746adca5a0)">
+Welcome to my GitHub profile! I'm an aspiring web developer passionate about building beautiful and functional websites. Currently, I'm focusing on learning HTML and its intricacies.
+<img align='right'alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif "></img>
+
+
+
 
 
 
 ## About Me 👀
 
+
 - **Name:** Anant Dixit
 - **Currently Studying:** B.Tech in Computer Science
 - **Specializations:** c++ dsa, Web Development
 - **Interests:** Web Development,  Machine Learning
+- ** 
 
 
 ## 🔧 Technologies & Tools
