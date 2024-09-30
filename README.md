@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anant Dixit</h1>
 <h3 align="center">learning full stack webdevelopment</h3>
-Welcome to my GitHub profile! I'm an aspiring web developer passionate about building beautiful and functional websites. Currently, I'm focusing on learning HTML and its intricacies.
+Welcome to my GitHub profile! I'm an aspiring web developer passionate about building beautiful and functional websites. Currently, I'm focusing on learning javascript and its intricacies.
 <img align='right'alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif "></img>
 
 
