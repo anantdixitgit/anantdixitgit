@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm an aspiring web developer passionate about bui
 
 
 ## 🔧 Technologies & Tools
-- **Languages:** HTML, CSS, JavaScript,c++,python, java
+- **Languages:** HTML , c++, CSS, JavaScript , c++ , python , java
 - **Tools:** Git, Github,Visual Studio Code
 - **Frameworks:** Exploring Bootstrap and Tailwind CSS
 
