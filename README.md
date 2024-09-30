@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anant Dixit</h1>
 <h3 align="center">learning full stack webdevelopment</h3>
+Welcome to my GitHub profile! I'm an aspiring web developer passionate about building beautiful and functional websites. Currently, I'm focusing on learning javascript and its intricacies.
+
+## 🌱 About Me
+- 🎓 Learning HTML, CSS, and JavaScript
+- 💻 Working on personal projects to enhance my skills
+- 🌍 Interested in front-end development and responsive design
+
+## 🔧 Technologies & Tools
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** Git, Github,Visual Studio Code
+- **Frameworks:** Exploring Bootstrap and Tailwind CSS
+
 <img align='right'alt="coding" width="400" src="https://images.app.goo.gl/szKCd2pH6Newz1Pf8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantdixitgit&label=Profile%20views&color=0e75b6&style=flat" alt="anantdixitgit" /> </p>
